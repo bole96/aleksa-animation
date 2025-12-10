@@ -1,0 +1,8 @@
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\bin\Debug\Zadatak_Domaci.exe.config
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\bin\Debug\Zadatak_Domaci.exe
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\bin\Debug\Zadatak_Domaci.pdb
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\obj\Debug\Zadatak_Domaci.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\obj\Debug\Zadatak_Domaci.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\obj\Debug\Zadatak_Domaci.exe
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\obj\Debug\Zadatak_Domaci.pdb
+C:\Users\aleks\Desktop\c#\Zadatak_Domaci\Zadatak_Domaci\obj\Debug\Zadatak_Domaci.exe.config

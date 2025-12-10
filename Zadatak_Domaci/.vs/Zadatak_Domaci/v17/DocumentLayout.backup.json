@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|c:\\users\\aleks\\desktop\\c#\\zadatak_domaci\\zadatak_domaci\\pice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\pice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\zadatak_domaci\\hrana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\hrana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\zadatak_domaci\\korpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\korpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\zadatak_domaci\\ikupovina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\ikupovina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\zadatak_domaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\zadatak_domaci\\iprodaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\iprodaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\zadatak_domaci\\artikal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B7BA11-E33C-4679-8B35-EE3E155A973D}|Zadatak_Domaci\\Zadatak_Domaci.csproj|solutionrelative:zadatak_domaci\\artikal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProdaja.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\IProdaja.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\IProdaja.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\IProdaja.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\IProdaja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:26:24.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKupovina.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\IKupovina.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\IKupovina.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\IKupovina.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\IKupovina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:33:42.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Korpa.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Korpa.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\Korpa.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Korpa.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\Korpa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:34:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hrana.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Hrana.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\Hrana.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Hrana.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\Hrana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:30:18.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pice.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Pice.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\Pice.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Pice.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\Pice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:24:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artikal.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Artikal.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\Artikal.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Artikal.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\Artikal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:21:15.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Program.cs",
+              "RelativeDocumentMoniker": "Zadatak_Domaci\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\c#\\Zadatak_Domaci\\Zadatak_Domaci\\Program.cs",
+              "RelativeToolTip": "Zadatak_Domaci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:15:54.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
